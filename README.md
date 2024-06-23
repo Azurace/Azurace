@@ -4,7 +4,7 @@
 <h1 align="center">Hi I'm Azurace</h1>
 </p>
 
-**🐱 My GitHub Data** 
+## **🐱 My GitHub Data** 
 
 > 📦 66.7 kB Used in GitHub's Storage 
  > 
@@ -17,7 +17,7 @@
 ![trait-noir-2](https://github.com/Azurace/Azurace/assets/153006577/d10f3534-2b47-44ec-b5f2-b680d1fc1e50)
 
 
-**I'm a Night 🦉** 
+## **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
@@ -26,7 +26,7 @@
 🌙 Night                  14 commits          ████░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 
-📅 **I'm Most Productive on Wednesday** 
+## 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
@@ -38,7 +38,7 @@ Saturday                 9 commits           ░░░░░░░░░░░�
 Sunday                   116 commits         ████████░░░░░░░░░░░░░░░░░   30.60 % 
 ```
 
-📊 **This Week I Spent My Time On** 
+## 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
@@ -56,7 +56,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+## **I Mostly Code in JavaScript** 
 
 ```text
 Python               5 repos              ██████████████████░░░░░░░░░░░   61.43 % 
