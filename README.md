@@ -1,6 +1,6 @@
+<img width="100%" src="https://github.com/Azurace/Azurace/assets/153006577/9a4babd5-a235-44d0-9eda-aa7c296ed826"></a>
 
-
-<h1 align="center">Hi I'm Azurace</h1>
+<h1 align="center">Azurace</h1>
 </p>
 
 ## 🐱 **My GitHub Data** 
@@ -118,10 +118,8 @@ JavaScript           1 repo               ████████░░░░�
 
 ![trait-noir-2](https://github.com/Azurace/Azurace/assets/153006577/3adf86f9-dc38-4e12-a1ba-62d48e6ccf23)
 
-<p align="center">
-    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<p>
+   <h4 align="center"> Si vous utilisez mon profil github, vous pouvez m'aider en m'offrant un café ☕️ (Discord : pepe_the_frog.py) </h4>
 </p>
 
-<p>
-   <h4 align="center"> Si vous utilisez mon profil github, vous pouvez m'aider en m'offrant un café ☕️ (Discord : pepe_the_frog.py </h4>
-</p>
+<img width="100%" src="https://github.com/Azurace/Azurace/assets/153006577/9a4babd5-a235-44d0-9eda-aa7c296ed826"></a>
