@@ -17,7 +17,7 @@
 ![trait-noir-2](https://github.com/Azurace/Azurace/assets/153006577/d10f3534-2b47-44ec-b5f2-b680d1fc1e50)
 
 
-## **I'm a Night 🦉** 
+## 🦉 ** I'm a Night ** 
 
 ```text
 🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
@@ -56,7 +56,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-## **I Mostly Code in JavaScript** 
+## ** I Mostly Code in JavaScript ** 
 
 ```text
 Python               5 repos              ██████████████████░░░░░░░░░░░   61.43 % 
@@ -78,7 +78,7 @@ JavaScript           1 repo               ████████░░░░�
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 
 ## My tools :
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -89,6 +89,7 @@ JavaScript           1 repo               ████████░░░░�
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
 <h3 align="center">Project management</h3>
